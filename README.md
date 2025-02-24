@@ -65,10 +65,10 @@ Here are some of my favorite projects:
   <a href="https://github.com/abdullaevaxror" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:abdullaevaxror@gmail.com" target="_blank">
+  <a href="mailto:abdullaevaxror122@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://t.me/Abdullaev_Axror" target="_blank">
+  <a href="https://t.me/abdullaevaxror" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://www.linkedin.com/in/abdullaev-axror/" target="_blank">
