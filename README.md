@@ -1,32 +1,22 @@
 ## ![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
 
-## 🌟 Hi there, I'm Mexriddin!
+## 🌟 Hi there, I'm Abdullaev Axror!
 
 ### 🌟 About Me:
 - 🌟 I'm a passionate developer exploring the world of programming.
-- 🌟 Currently a **2nd-year Cybersecurity student at TATU**.
 - 🌟 Currently learning **PHP, Laravel**, and improving my **JavaScript** skills.
 - 🌟 I love creating web applications and solving real-world problems.
 - 🌟 My goal is to contribute to open-source and build projects that help others.
 
-
-
 ---
 
-
-
-
-
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MexriddinDev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaevaxror&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MexriddinDev&layout=compact&theme=dark)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaevaxror&layout=compact&theme=dark)
 
 ### ⏳ WakaTime Statistikalari   
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mexriddin&layout=compact&theme=radical&hide_title=true&border_radius=10px&range=all_time)](https://wakatime.com/@Mexriddin)
-
-
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@abdullaevaxror&layout=compact&theme=radical&hide_title=true&border_radius=10px&range=all_time)](https://wakatime.com/@abdullaevaxror)
 
 ---
 
@@ -54,24 +44,34 @@
   </p>
 </div>
 
-
-
-
----
-
-
-
 ---
 
 ### 🌟 Featured Projects:
 Here are some of my favorite projects:
-1. [WorkOfTracker](https://github.com/MexriddinDev/WorkOfTracker): A personal productivity tracker to manage daily tasks.
-2. [TodoApp](https://github.com/MexriddinDev/TodoApp): A simple and effective to-do list app built with PHP.
-3. [Currency Converter](https://github.com/MexriddinDev/CurrencyConverter): An app to convert currencies and get weather information in real-time.
+1. [WorkOfTracker](https://github.com/abdullaevaxror/WorkOfTracker): A personal productivity tracker to manage daily tasks.
+2. [TodoApp](https://github.com/abdullaevaxror/TodoApp): A simple and effective to-do list app built with PHP.
+3. [Currency Converter](https://github.com/abdullaevaxror/CurrencyConverter): An app to convert currencies and get weather information in real-time.
 
 **More Projects:**
-- [Quiz-App](http://mexridub.beget.tech/)
-- [Project 2](https://github.com/MexriddinDev/Project2)
-- [Project 3](https://github.com/MexriddinDev/Project3)
+- [Quiz-App](http://abdullaevaxror.beget.tech/)
+- [Project 2](https://github.com/abdullaevaxror/Project2)
+- [Project 3](https://github.com/abdullaevaxror/Project3)
 
 ---
+
+### 📞 How to Reach Me:
+<div align="center">
+  <h3>Men bilan bog'laning:</h3>
+  <a href="https://github.com/abdullaevaxror" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:abdullaevaxror@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/Abdullaev_Axror" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.linkedin.com/in/abdullaev-axror/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
