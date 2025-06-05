@@ -1,5 +1,3 @@
-## ![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
-
 ## 🌟 Hi there, I'm Abdullaev Axror!
 
 ### 🌟 About Me:
