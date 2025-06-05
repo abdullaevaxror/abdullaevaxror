@@ -15,11 +15,19 @@
 
 ---
 
-### 🌟 Featured Projects:
+### 📂 Featured Projects:
 Here are some of my favorite projects:
 1. [WorkOfTracker](https://github.com/abdullaevaxror/WorkOfTracker): A personal productivity tracker to manage daily tasks.
 2. [TodoApp](https://github.com/abdullaevaxror/TodoApp): A simple and effective to-do list app built with PHP.
 3. [Currency Converter](https://github.com/abdullaevaxror/CurrencyConverter): An app to convert currencies and get weather information in real-time.
+
+---
+
+### 🛠 Skills & Tools:
+
+- Languages: PHP, JavaScript, HTML, CSS
+- Frameworks: Laravel, Boostrap
+- Tools: Git, Visual Studio Code, Composer
 
 ---
 
